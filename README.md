@@ -1,5 +1,5 @@
 # Airline-reservation-system
 Software Used:-
-IDE- Netbeans
-Database- MySQL
-Server- XAMPP
+IDE- Netbeans, 
+Database- MySQL, 
+Server- XAMPP.
